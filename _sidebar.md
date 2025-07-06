@@ -2,6 +2,7 @@
 * [Guide](guide.md)
 
 * [Proyecto 1](Proyecto1)
-    * [Paquete 1](Paquete1)
-    * [Paquete 2](Paquete2)
-    * [Paquete 2](Paquete3)
+    * [Paquete 1](Paquete1)    
+    * [Paquete 3](Paquete3)
+
+* [Paquete 2](Paquete2)
